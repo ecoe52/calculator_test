@@ -1,6 +1,6 @@
-#calculator
+# calculator
 
-##What it does 
+## What it does 
 
 - adds
 - subtracts
